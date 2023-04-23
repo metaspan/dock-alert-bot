@@ -1,0 +1,31 @@
+{
+    "": null,
+    "candidates": [],
+    "subscribers": [
+        {
+            "id": "781188286525341716",
+            "interval": 7200,
+            "channel": {
+                "id": "1069639474373468271"
+            },
+            "targets": [
+                {
+                    "stash": "3D6KKyNq3rocxZUjV9ZKrM3gWP6dXKxmV9umCepjbsGBE5di"
+                },
+                {
+                    "stash": "3E6NNUnsrTPSRQ59bSBAPf2UVwWawyy4VsYWnHRvf1Z4F2SA"
+                },
+                {
+                    "stash": "3FQUnxLPabNRzihRwc2iJtBUJfpYgpZnsQkcyGq2dybugmvL"
+                },
+                {
+                    "stash": "3Hafb5mAogGc3w6sv4QbjZ1LjCYmzs6uTyZhfaRYLtHDFKyo"
+                },
+                {
+                    "stash": "3CLJVoZpRHMFkhiK4JYCi7YepJwqf9oQUfD7411mefw5UEFE"
+                }
+            ],
+            "updatedAt": "2023-04-23T10:27:11.140Z"
+        }
+    ]
+}
